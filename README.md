@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# action-cable-exercise
+Learning about ActionCable
+>>>>>>> faa288df5e8aca2583690500804f4d4149431a5f
